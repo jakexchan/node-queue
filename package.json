@@ -1,5 +1,5 @@
 {
-  "name": "node-queue",
+  "name": "@jakexchan/node-queue",
   "version": "1.0.0",
   "description": "A CommonJS package for p-queue.",
   "main": "index.js",
