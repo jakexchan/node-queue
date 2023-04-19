@@ -1,6 +1,6 @@
 {
   "name": "@jakexchan/node-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CommonJS package for p-queue.",
   "main": "index.js",
   "types": "node_modules/p-queue/dist/index.d.ts",
@@ -19,6 +19,9 @@
     "queue",
     "nodejs",
     "p-queue"
+  ],
+  "files": [
+    "dist"
   ],
   "author": "Kevin Chan",
   "license": "MIT",
